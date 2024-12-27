@@ -1,0 +1,2 @@
+# input.file.path='/kjsd'
+# hive.database = retail_db
